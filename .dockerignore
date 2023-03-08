@@ -1,0 +1,9 @@
+*.DS_Store
+.git
+.idea
+
+models
+src
+
+.gitignore
+environment.yml
