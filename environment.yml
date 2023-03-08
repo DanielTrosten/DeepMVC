@@ -1,0 +1,10 @@
+name: mvc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - ipywidgets
+  - ipykernel
+  - faiss
+  - pip
