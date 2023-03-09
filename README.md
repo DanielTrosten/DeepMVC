@@ -1,26 +1,23 @@
 # DeepMVC: A Unified Framework for Deep Multi-view Clustering
 
-![DeepMVC](img/DeepMVC.png)
-*Figure 1: Overview of the DeepMVC framework and its components.*
+This repository contains the code for the paper _"On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering"_, CVPR 2023.
 
-**Abstract** (from paper):
-
+_**Abstract** -
 Recent works in deep multi-view clustering (MVC) vary significantly in the motivation, implementation and evaluation of new methods.
 This makes it difficult to reproduce and compare the performance of models, and to identify directions for future work.
-Here we illustrate that many recent methods can be regarded as instances of a new unified framework, referred to as 
-DeepMVC.
+Here we illustrate that many recent methods can be regarded as instances of a new unified framework, referred to as DeepMVC.
 This provides novel insight into the field, allowing us to develop new instances of DeepMVC in a principled manner.
 We conduct an extensive experimental evaluation of recent methods and our new instances, showing that these outperform previous methods on several datasets.
 Finally, we present key findings from our experiments, and suggest promising directions for future research.
-To enhance the openness of the field, we provide an open-source implementation of DeepMVC, including the baselines and 
-the 
-new instances.
-Our implementation also includes a consistent evaluation protocol, facilitating fair and accurate evaluation of methods.
+To enhance the openness of the field, we provide an open-source implementation of DeepMVC, including the baselines and the new instances.
+Our implementation also includes a consistent evaluation protocol, facilitating fair and accurate evaluation of methods._
 
+![DeepMVC](img/DeepMVC.png)
+*Figure 1: Overview of the DeepMVC framework and its components.*
 
 ## Evaluation results
-*Table 1: Main results from our experimental evaluation.*
 ![results](img/results.png)
+*Table 1: Main results from our experimental evaluation.*
 
 
 ## Preparing datasets
