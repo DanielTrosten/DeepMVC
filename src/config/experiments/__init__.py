@@ -8,7 +8,6 @@ from .benchmark.dmsc import *
 from .benchmark.contrastive_ae import *
 from .benchmark.mimvc import *
 from .benchmark.mviic import *
-from .benchmark.svaug import *
 
 # Ablation study experiments
 from .ablation.sv_ssl import *
